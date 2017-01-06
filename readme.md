@@ -6,9 +6,9 @@
 ![Temperature and Wind][Forcast2]
 ![Temperature and Wind][Forcast3]
 
-| 0-48 | 48-72 |  72 - |
-| ------------- | ------------- | ------------- |
-| ![Temperature and Wind][Forcast1] | ![Temperature and Wind][Forcast2] |  ![Temperature and Wind][Forcast1] |
+| 0-48 | 48-72 |
+| ------------- | ------------- |
+| ![Temperature and Wind][Forcast1] | ![Temperature and Wind][Forcast2] |
 
 [Image1]: http://sirocco.accuweather.com/nx_mosaic_640x480c/sir/inmasirva_.gif
 [Image2]: http://sirocco.accuweather.com/nx_mosaic_640x480_public/sir/inmasirmr_dca.gif
