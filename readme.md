@@ -6,7 +6,7 @@
 ![Temperature and Wind][Forcast2]
 ![Temperature and Wind][Forcast3]
 
-| 0-48 | 48-72 | 72- |
+| 0-48 | 48-72 | 72 |
 | ------------- | ------------- | ------------- |
 | ![Temperature and Wind](http://forecast.weather.gov/meteograms/Plotter.php?lat=39.08120&amp;lon=-77.15390&amp;wfo=LWX&amp;zcode=MDZ009&amp;gset=20&amp;gdiff=10&amp;unit=0&amp;tinfo=EY5&amp;ahour=0&amp;pcmd=1111111111111&amp;lg=en&amp;indu=1%211%211) | ![Temperature and Wind](http://forecast.weather.gov/meteograms/Plotter.php?lat=39.08120&amp;lon=-77.15390&amp;wfo=LWX&amp;zcode=MDZ009&amp;gset=20&amp;gdiff=10&amp;unit=0&amp;tinfo=EY5&amp;ahour=48&amp;pcmd=1111111111111&amp;lg=en&amp;indu=1%211%211) | ![Temperature and Wind](http://forecast.weather.gov/meteograms/Plotter.php?lat=39.08120&amp;lon=-77.15390&amp;wfo=LWX&amp;zcode=MDZ009&amp;gset=20&amp;gdiff=10&amp;unit=0&amp;tinfo=EY5&amp;ahour=72&amp;pcmd=1111111111111&amp;lg=en&amp;indu=1%211%211) |
 
